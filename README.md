@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Base Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Convert between decimal, binary and hex with [Base Calculator](https://auzon.github.io/base-calculator/).
 
 ## Available Scripts
 
