@@ -1,6 +1,6 @@
 {
-  "homepage": "http://auzon.github.io/BaseCalculator",
-  "name": "BaseCalculator",
+  "homepage": "http://auzon.github.io/base-calculator",
+  "name": "base-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
